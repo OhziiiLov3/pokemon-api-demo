@@ -1,0 +1,43 @@
+.pokemon-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+
+.pokemon-list h2 {
+  background-color: #f8f8f8;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+  text-align: center;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+
+ 
+
+
+  .user-search {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .user-search input {
+    padding: 8px;
+    font-size: 16px;
+    flex: 1;
+    border-radius: 5px;
+    border: none;
+    max-width: 50%;
+
+  }
+  
+  .user-search button {
+    padding: 8px;
+    font-size: 16px;
+  }
+  

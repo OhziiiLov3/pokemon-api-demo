@@ -1,0 +1,26 @@
+.user-card {
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+  }
+  
+  .user-card img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+  }
+  
+  .user-card h2 {
+    margin: 10px 0;
+  }
+  
+  .user-card a {
+    color: #0366d6;
+    text-decoration: none;
+  }
+  
+  .user-card a:hover {
+    text-decoration: underline;
+  }
+  
